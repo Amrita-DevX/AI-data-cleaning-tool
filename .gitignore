@@ -1,0 +1,23 @@
+
+
+# DOCUMENT FILES
+# ============================================
+# Microsoft Word
+*.doc
+*.docx
+
+# PDF
+*.pdf
+
+# CSV files
+*.csv
+
+# Excel files
+*.xlsx
+*.xls
+
+*.png
+*.jpg
+
+# Keep documentation
+!README.md
