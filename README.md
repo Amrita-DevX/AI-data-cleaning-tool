@@ -19,7 +19,9 @@ AI Data Cleaning Assistant is a web-based application that leverages Large Langu
 - **☁️ Cloud-Ready**: Easy deployment to Streamlit Cloud or Hugging Face Spaces
 
 ---
+### 🔗 Live App: https://ai-data-cleaning-assistant.streamlit.app/
 
+---
 
 ## 🚀 Quick Start
 
